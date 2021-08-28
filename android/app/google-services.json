@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "49560489655",
+    "project_id": "finna-port",
+    "storage_bucket": "finna-port.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49560489655:android:0ddda8e363704461f54732",
+        "android_client_info": {
+          "package_name": "com.example.finnaport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49560489655-a3hijf3vj98kr7aoanspp62cn3410tjv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0S0aZL5C7cAGRaC7yRwUwETVrOYviGWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49560489655-a3hijf3vj98kr7aoanspp62cn3410tjv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
